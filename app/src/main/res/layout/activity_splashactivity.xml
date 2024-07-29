@@ -7,14 +7,13 @@
     android:background="#673AB7"
     android:gravity="center"
     tools:context=".splashactivity">
-    
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ubaid_editx_110"
+        android:text="Ubaid_Editx"
         android:textSize="43sp"
         android:textStyle="bold"
         android:textColor="#fff" />
-
 
 </LinearLayout>
